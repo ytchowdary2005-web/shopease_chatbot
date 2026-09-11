@@ -72,7 +72,7 @@ Final Answer
     ├── requirements.txt
     └── README.md
 
-## Setup (in VS Code)
+# Setup (in VS Code)
 
 ### 1. Open the project
 
