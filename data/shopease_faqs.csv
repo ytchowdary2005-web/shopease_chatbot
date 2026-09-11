@@ -1,0 +1,421 @@
+id,category,question,answer,keywords
+FAQ-001,Orders & Order Management,How do I place an order?,Log in → add the product to Cart → Checkout → enter delivery details → confirm the order.,how|place|order
+FAQ-002,Orders & Order Management,Where can I find my order history?,Go to My Account → My Orders to view previous and current orders.,where|can|find|order|history
+FAQ-003,Orders & Order Management,Where can I find my order number?,Go to My Account → My Orders → select the order. The order number is shown in Order Details.,where|can|find|order|number
+FAQ-004,Orders & Order Management,How do I cancel an order?,Go to My Account → My Orders → select the order → Cancel Order. This is available only before processing or shipping.,how|cancel|order
+FAQ-005,Orders & Order Management,Where can I find the cancel option?,"Go to My Account → My Orders → select the order. If eligible, the Cancel Order option appears there.",where|can|find|the|cancel|option
+FAQ-006,Orders & Order Management,How do I modify an order?,Go to My Account → My Orders → select the order and use any available modification option before processing or shipping.,how|modify|order
+FAQ-007,Orders & Order Management,Can I change an order after it ships?,Changes may not be available after shipping. Open My Account → My Orders to check the available options.,can|change|order|after|ships
+FAQ-008,Orders & Order Management,How do I check my order status?,Go to My Account → My Orders → select the order to view its current status.,how|check|order|status
+FAQ-009,Orders & Order Management,Where can I see my order details?,"Go to My Account → My Orders → select the order to view its items, status, delivery, and payment details.",where|can|see|order|details
+FAQ-010,Orders & Order Management,How do I reorder a previous purchase?,Go to My Account → My Orders → select the previous order → choose the available Reorder option.,how|reorder|previous|purchase
+FAQ-011,Orders & Order Management,How do I change an item quantity?,Open My Account → My Orders → select the order and check whether quantity changes are still available.,how|change|item|quantity
+FAQ-012,Orders & Order Management,Can I add another item to an existing order?,"If the order can still be modified, check My Account → My Orders. Otherwise, place a separate order.",can|add|another|item|existing|order
+FAQ-013,Orders & Order Management,What happens when an order is cancelled?,The order status changes to Cancelled. Any eligible payment refund is processed according to the refund policy.,what|happens|when|order|cancelled
+FAQ-014,Orders & Order Management,How do I confirm that an order was placed?,Open My Account → My Orders and look for the newly created order and its order details.,how|confirm|that|order|was|placed
+FAQ-015,Orders & Order Management,Where can I find a previous order?,Go to My Account → My Orders and use the order list to select the previous purchase.,where|can|find|previous|order
+FAQ-016,Orders & Order Management,Can I place multiple orders?,Yes. Complete checkout separately for each order you want to place.,can|place|multiple|orders
+FAQ-017,Orders & Order Management,Where can I request an invoice?,"Go to My Account → My Orders → select the order → Invoice, if an invoice is available.",where|can|request|invoice
+FAQ-018,Orders & Order Management,What should I do if I ordered the wrong product?,"Open My Account → My Orders and check whether cancellation or modification is available. If shipped, use the return process when eligible.",what|should|ordered|the|wrong|product
+FAQ-019,Orders & Order Management,What does order processing mean?,Order processing means the order is being prepared before shipment. Some changes may stop being available during this stage.,what|does|order|processing|mean
+FAQ-020,Orders & Order Management,Where can I find a cancelled order?,Go to My Account → My Orders and select the cancelled order to view its status and details.,where|can|find|cancelled|order
+FAQ-021,Shipping & Delivery,What shipping options are available?,Available shipping methods and estimated delivery dates are shown during Checkout.,what|shipping|options|are|available
+FAQ-022,Shipping & Delivery,Where can I find shipping options?,Go to Checkout and open the delivery or shipping section to see available methods.,where|can|find|shipping|options
+FAQ-023,Shipping & Delivery,How much does shipping cost?,"Shipping cost depends on destination, product, carrier, and selected method. The applicable cost appears at Checkout.",how|much|does|shipping|cost
+FAQ-024,Shipping & Delivery,Where can I see the shipping cost?,Go to Checkout → Shipping/Delivery to see the shipping charge before placing the order.,where|can|see|the|shipping|cost
+FAQ-025,Shipping & Delivery,How long does standard shipping take?,The estimated standard delivery date is shown during Checkout and depends on the destination and carrier.,how|long|does|standard|shipping|take
+FAQ-026,Shipping & Delivery,How long does express delivery take?,"If express delivery is available, its estimated delivery date is shown during Checkout.",how|long|does|express|delivery|take
+FAQ-027,Shipping & Delivery,Is weekend delivery available?,Weekend delivery depends on destination and carrier. Check the shipping options shown at Checkout.,weekend|delivery|available
+FAQ-028,Shipping & Delivery,Is same-day delivery available?,Same-day delivery is available only for eligible products and destinations. Check Checkout for the available options.,same-day|delivery|available
+FAQ-029,Shipping & Delivery,Can I change my shipping method?,"If the order has not been processed, go to My Account → My Orders → select the order and check for shipping-change options.",can|change|shipping|method
+FAQ-030,Shipping & Delivery,Where can I find my estimated delivery date?,Go to My Account → My Orders → select the order to view its current delivery estimate.,where|can|find|estimated|delivery|date
+FAQ-031,Shipping & Delivery,Can I change my delivery address?,Address changes may be available before processing or shipping. Check My Account → My Orders → select the order.,can|change|delivery|address
+FAQ-032,Shipping & Delivery,Where can I see my delivery address?,Go to My Account → My Orders → select the order to view the delivery address.,where|can|see|delivery|address
+FAQ-033,Shipping & Delivery,What should I do if delivery is delayed?,Go to My Account → My Orders → select the order and review its latest delivery status and estimate.,what|should|delivery|delayed
+FAQ-034,Shipping & Delivery,What happens if nobody is available for delivery?,Check the carrier tracking information for the latest delivery instructions and next steps.,what|happens|nobody|available|for|delivery
+FAQ-035,Shipping & Delivery,Can one order have multiple deliveries?,"Yes. Items in one order may arrive separately depending on inventory, warehouse handling, or carrier arrangements.",can|one|order|have|multiple|deliveries
+FAQ-036,Shipping & Delivery,Where can I find delivery instructions?,Open My Account → My Orders → select the order and review the available delivery information.,where|can|find|delivery|instructions
+FAQ-037,Shipping & Delivery,Can I request a specific delivery date?,A specific date can be selected only when the available shipping options provide that choice.,can|request|specific|delivery|date
+FAQ-038,Shipping & Delivery,What if my package is going to the wrong address?,"If it has not shipped, check My Account → My Orders for an address-change option. Otherwise, contact support.",what|package|going|the|wrong|address
+FAQ-039,Shipping & Delivery,How do I know if express shipping is available?,Enter the delivery address during Checkout and review the shipping methods displayed.,how|know|express|shipping|available
+FAQ-040,Shipping & Delivery,Can shipping availability vary by product?,"Yes. Shipping methods can vary by product, destination, inventory, and carrier.",can|shipping|availability|vary|product
+FAQ-041,Delivery Tracking,How do I track my order?,Go to My Account → My Orders → select the shipped order → Track Order.,how|track|order
+FAQ-042,Delivery Tracking,Where can I find order tracking?,Open My Account → My Orders → select the order and choose Track Order when available.,where|can|find|order|tracking
+FAQ-043,Delivery Tracking,Where can I find my tracking number?,Go to My Account → My Orders → select the shipped order. The tracking number appears in Tracking Details.,where|can|find|tracking|number
+FAQ-044,Delivery Tracking,When will tracking become available?,Tracking normally becomes available after the order ships and the carrier provides tracking information.,when|will|tracking|become|available
+FAQ-045,Delivery Tracking,What does my tracking status mean?,Open the order's tracking page to view the latest carrier status and delivery updates.,what|does|tracking|status|mean
+FAQ-046,Delivery Tracking,Why has my tracking not updated?,Carrier scans can take time to appear. Check the tracking page again later.,why|has|tracking|not|updated
+FAQ-047,Delivery Tracking,What if tracking says delivered but I did not receive it?,"Check the delivery location and carrier updates first. If it is still missing, contact ShopEase support.",what|tracking|says|delivered|but|did|not|receive
+FAQ-048,Delivery Tracking,Can I track a cancelled order?,A cancelled order normally does not continue through delivery. Check My Account → My Orders for its final status.,can|track|cancelled|order
+FAQ-049,Delivery Tracking,Can I track a returned package?,"If return tracking is available, open My Account → My Orders → select the order → Return Details.",can|track|returned|package
+FAQ-050,Delivery Tracking,Where can I see the carrier name?,Open My Account → My Orders → select the shipped order to view available carrier information.,where|can|see|the|carrier|name
+FAQ-051,Delivery Tracking,How do I track multiple orders?,Open My Account → My Orders and select each order to view its individual tracking information.,how|track|multiple|orders
+FAQ-052,Delivery Tracking,What if my tracking number does not work?,"Verify the number in My Account → My Orders. If it remains invalid, contact support.",what|tracking|number|does|not|work
+FAQ-053,Delivery Tracking,How do I check the delivery estimate?,Open My Account → My Orders → select the order to view the current estimated delivery date.,how|check|the|delivery|estimate
+FAQ-054,Delivery Tracking,Why is my order still processing?,The order may still be preparing for shipment. Check My Account → My Orders for the latest status.,why|order|still|processing
+FAQ-055,Delivery Tracking,What does out for delivery mean?,It means the carrier has indicated that the package is in the delivery stage. Check tracking for updates.,what|does|out|for|delivery|mean
+FAQ-056,Delivery Tracking,What does shipped mean?,It means the order has moved from processing into the shipment and delivery stage.,what|does|shipped|mean
+FAQ-057,Delivery Tracking,Where can I find tracking after shipment?,Go to My Account → My Orders → select the shipped order → Track Order.,where|can|find|tracking|after|shipment
+FAQ-058,Delivery Tracking,Can tracking information be delayed?,Yes. Carrier updates may take time to appear after a shipment is created or scanned.,can|tracking|information|delayed
+FAQ-059,Delivery Tracking,How do I report a missing tracked package?,Open My Account → My Orders → select the order and contact support with the tracking information.,how|report|missing|tracked|package
+FAQ-060,Delivery Tracking,Can I get tracking notifications?,Notification availability depends on the order and delivery service. Check the tracking details for available options.,can|get|tracking|notifications
+FAQ-061,Returns,What is the ShopEase return policy?,Eligible products generally follow a 30-day return window and may have product-specific conditions.,what|the|shopease|return|policy
+FAQ-062,Returns,How do I return an item?,"Go to My Account → My Orders → select the eligible order → Return Item, then follow the instructions.",how|return|item
+FAQ-063,Returns,Where can I find the return option?,"Go to My Account → My Orders → select the order. If eligible, Return Item appears there.",where|can|find|the|return|option
+FAQ-064,Returns,How do I print a return label?,Go to My Account → My Orders → select the returned item → Return Details → Print Return Label.,how|print|return|label
+FAQ-065,Returns,Where can I find my return label?,Open My Account → My Orders → select the order → Return Details to access the available label.,where|can|find|return|label
+FAQ-066,Returns,Can I return an item after 30 days?,"Returns after 30 days are generally outside the standard return window, subject to product-specific conditions.",can|return|item|after|days
+FAQ-067,Returns,How do I check return eligibility?,Go to My Account → My Orders → select the item and open Return Item to see whether it is eligible.,how|check|return|eligibility
+FAQ-068,Returns,What products cannot be returned?,Some products may be non-returnable because of product-specific conditions. Check the item's return information.,what|products|cannot|returned
+FAQ-069,Returns,How do I cancel a return request?,Go to My Account → My Orders → select the order → Return Details and check whether cancellation is available.,how|cancel|return|request
+FAQ-070,Returns,How do I pack a return?,Open the order's Return Details and follow the packing instructions provided for the item.,how|pack|return
+FAQ-071,Returns,What happens after I send a return?,The return moves through the applicable processing stages. Check My Account → My Orders → Return Details for updates.,what|happens|after|send|return
+FAQ-072,Returns,How do I check my return status?,Go to My Account → My Orders → select the returned order → Return Details.,how|check|return|status
+FAQ-073,Returns,Where can I see return status?,Open My Account → My Orders → select the order → Return Details.,where|can|see|return|status
+FAQ-074,Returns,Can I return part of an order?,"Yes, when individual items are eligible. Select the specific item from My Account → My Orders.",can|return|part|order
+FAQ-075,Returns,Can I return multiple items together?,Eligible items can be selected together when the return flow supports multiple-item returns.,can|return|multiple|items|together
+FAQ-076,Returns,What if my return is rejected?,Open My Account → My Orders → Return Details to review the return status and conditions.,what|return|rejected
+FAQ-077,Returns,What if I received an incorrect item?,Go to My Account → My Orders → select the affected order → Return Item and choose the applicable reason.,what|received|incorrect|item
+FAQ-078,Returns,Can I exchange instead of returning?,Exchange availability depends on the product and available options shown in the return or exchange flow.,can|exchange|instead|returning
+FAQ-079,Returns,Where can I see return instructions?,Go to My Account → My Orders → select the order → Return Details.,where|can|see|return|instructions
+FAQ-080,Returns,How do I know my return was submitted?,Open My Account → My Orders and select the order. Return Details shows the submitted return information.,how|know|return|was|submitted
+FAQ-081,Refunds,How do I get a refund?,Eligible refunds are normally returned to the original payment method after the return or cancellation is approved.,how|get|refund
+FAQ-082,Refunds,Where can I find the refund option?,Go to My Account → My Orders → select the order and open the available Return or Refund Details section.,where|can|find|the|refund|option
+FAQ-083,Refunds,Where can I find my refund status?,Go to My Account → My Orders → select the order → Refund Details.,where|can|find|refund|status
+FAQ-084,Refunds,Where is my refund?,Check My Account → My Orders → select the order → Refund Details for available refund information.,where|refund
+FAQ-085,Refunds,How long does a refund take?,Refund timing depends on processing and the original payment provider. Check Refund Details for the current status.,how|long|does|refund|take
+FAQ-086,Refunds,Where can I see refund details?,Open My Account → My Orders → select the relevant order → Refund Details.,where|can|see|refund|details
+FAQ-087,Refunds,Can I get a refund for a cancelled order?,"If the cancelled order has an eligible payment, the refund is normally returned to the original payment method.",can|get|refund|for|cancelled|order
+FAQ-088,Refunds,Will my refund go to the original payment method?,Yes. Eligible refunds are normally returned to the original payment method used for the purchase.,will|refund|the|original|payment|method
+FAQ-089,Refunds,Can I get a refund to a different card?,Refunds are normally sent to the original payment method rather than a different card.,can|get|refund|different|card
+FAQ-090,Refunds,What should I do if my refund is missing?,Open My Account → My Orders → select the order → Refund Details. Contact support if the expected refund is not shown.,what|should|refund|missing
+FAQ-091,Refunds,How do I track a refund?,Go to My Account → My Orders → select the order → Refund Details to view available status information.,how|track|refund
+FAQ-092,Refunds,How do I confirm a refund?,Open My Account → My Orders → select the order and review Refund Details for confirmation.,how|confirm|refund
+FAQ-093,Refunds,Can I get a partial refund?,Partial refunds depend on the order and applicable conditions. Check the order's refund information or contact support.,can|get|partial|refund
+FAQ-094,Refunds,Are shipping charges refundable?,Refund eligibility for shipping charges depends on the order and applicable return conditions.,are|shipping|charges|refundable
+FAQ-095,Refunds,What happens to a refund after return inspection?,"Once an eligible return is approved, the refund is normally processed to the original payment method.",what|happens|refund|after|return|inspection
+FAQ-096,Refunds,Why is my refund pending?,A pending refund may still be processing. Check My Account → My Orders → Refund Details.,why|refund|pending
+FAQ-097,Refunds,What if my bank rejects a refund?,Contact ShopEase support if the refund cannot be completed through the original payment method.,what|bank|rejects|refund
+FAQ-098,Refunds,What happens to a coupon after a refund?,Coupon treatment depends on the promotion conditions associated with the original order.,what|happens|coupon|after|refund
+FAQ-099,Refunds,Where can I find refund confirmation?,Go to My Account → My Orders → select the order → Refund Details.,where|can|find|refund|confirmation
+FAQ-100,Refunds,Can I get a refund for a missing package?,"If the missing package qualifies for a refund, contact ShopEase support after checking the tracking information.",can|get|refund|for|missing|package
+FAQ-101,Payments,What payment methods are accepted?,Available payment methods are shown during Checkout.,what|payment|methods|are|accepted
+FAQ-102,Payments,Where can I find payment methods?,Go to Checkout → Payment Method to see the available payment options.,where|can|find|payment|methods
+FAQ-103,Payments,How do I pay by UPI?,"At Checkout → Payment Method, select UPI and follow the payment instructions.",how|pay|upi
+FAQ-104,Payments,How do I pay by debit card?,"At Checkout → Payment Method, select debit card, enter the required details, and complete payment.",how|pay|debit|card
+FAQ-105,Payments,How do I pay by credit card?,"At Checkout → Payment Method, select credit card, enter the required details, and complete payment.",how|pay|credit|card
+FAQ-106,Payments,Is cash on delivery available?,COD availability depends on the order and destination. Check Payment Method during Checkout.,cash|delivery|available
+FAQ-107,Payments,Where can I find COD eligibility?,Enter your delivery details during Checkout and review the available payment methods.,where|can|find|cod|eligibility
+FAQ-108,Payments,What should I do if my payment is declined?,"Check the payment details and try another available method. If it remains declined, contact your bank or payment provider.",what|should|payment|declined
+FAQ-109,Payments,What if I am charged after a failed payment?,"Check the transaction status with your payment provider. If the charge remains, contact support with transaction details.",what|charged|after|failed|payment
+FAQ-110,Payments,How do I change my payment method?,"During Checkout → Payment Method, select another available option before completing payment.",how|change|payment|method
+FAQ-111,Payments,Where can I change the payment method?,Go to Checkout → Payment Method and select the payment option you want to use.,where|can|change|the|payment|method
+FAQ-112,Payments,Can I save a payment method?,"If saving is available, use the payment settings or the option provided during Checkout.",can|save|payment|method
+FAQ-113,Payments,Where can I find saved payment methods?,"Open My Account → Payment Settings, if available, or review Payment Method during Checkout.",where|can|find|saved|payment|methods
+FAQ-114,Payments,Can I use multiple cards for one order?,Use the payment options presented at Checkout. Multiple-card payment is available only if the checkout flow supports it.,can|use|multiple|cards|for|one|order
+FAQ-115,Payments,Are international cards accepted?,International card acceptance depends on the payment options and transaction requirements shown at Checkout.,are|international|cards|accepted
+FAQ-116,Payments,What does pending payment mean?,It means the transaction has not reached a final status. Check the order and payment status again later.,what|does|pending|payment|mean
+FAQ-117,Payments,Why was I charged twice?,"Check your bank statement and order status. If two charges remain for one order, contact support with the transaction details.",why|was|charged|twice
+FAQ-118,Payments,Where can I see payment status?,Go to My Account → My Orders → select the order to view available payment status information.,where|can|see|payment|status
+FAQ-119,Payments,How do I handle a failed UPI payment?,"Check your UPI app and transaction status, then retry with an available method if the order was not completed.",how|handle|failed|upi|payment
+FAQ-120,Payments,What is an extra payment charge?,Review the checkout total and payment statement. Contact support if an unexpected charge remains.,what|extra|payment|charge
+FAQ-121,Discounts & Coupons,How do I apply a coupon?,Go to Checkout → Coupon or Promo Code → enter the code → Apply.,how|apply|coupon
+FAQ-122,Discounts & Coupons,Where can I find the coupon field?,Open Checkout and look for the Coupon or Promo Code section.,where|can|find|the|coupon|field
+FAQ-123,Discounts & Coupons,How do I find available discounts?,Review eligible offers and promotion information on product pages and during Checkout.,how|find|available|discounts
+FAQ-124,Discounts & Coupons,Why is my coupon not working?,"Check the code, expiration, product eligibility, account requirements, and minimum-order conditions.",why|coupon|not|working
+FAQ-125,Discounts & Coupons,Can I use more than one coupon?,Coupon stacking depends on the promotion rules. Check the conditions for each coupon.,can|use|more|than|one|coupon
+FAQ-126,Discounts & Coupons,Where can I see applied discounts?,Review Checkout → Order Summary to see the discounts applied to the order.,where|can|see|applied|discounts
+FAQ-127,Discounts & Coupons,Can I use a coupon after placing an order?,Coupons generally need to be applied before the order is completed unless the promotion says otherwise.,can|use|coupon|after|placing|order
+FAQ-128,Discounts & Coupons,How do I remove a coupon?,Go to Checkout → Order Summary and use the available remove option for the applied coupon.,how|remove|coupon
+FAQ-129,Discounts & Coupons,Where can I remove a coupon?,Open Checkout → Order Summary and remove the applied coupon if the option is available.,where|can|remove|coupon
+FAQ-130,Discounts & Coupons,Why did my discount disappear?,Review the promotion requirements and order changes; the discount may no longer meet its eligibility conditions.,why|did|discount|disappear
+FAQ-131,Discounts & Coupons,How do I know if a coupon expired?,Open the coupon details and check its validity period or expiration date.,how|know|coupon|expired
+FAQ-132,Discounts & Coupons,Can I use a coupon on sale items?,It depends on the promotion terms. Check the coupon conditions before applying it.,can|use|coupon|sale|items
+FAQ-133,Discounts & Coupons,Are coupons refundable?,Coupon treatment after a return or refund depends on the promotion conditions.,are|coupons|refundable
+FAQ-134,Discounts & Coupons,Can I get a discount after ordering?,Post-order discounts are generally unavailable unless the specific promotion allows them.,can|get|discount|after|ordering
+FAQ-135,Discounts & Coupons,Where can I find promotion terms?,Open the promotion or coupon details to review its eligibility and usage conditions.,where|can|find|promotion|terms
+FAQ-136,Discounts & Coupons,Why does my coupon say not eligible?,"The order, product, account, or promotion conditions may not meet the coupon requirements.",why|does|coupon|say|not|eligible
+FAQ-137,Discounts & Coupons,How do I check coupon usage limits?,Open the coupon details to review any usage limit or eligibility information.,how|check|coupon|usage|limits
+FAQ-138,Discounts & Coupons,Can a coupon be used on every product?,"No. Some coupons are limited to specific products, categories, or order conditions.",can|coupon|used|every|product
+FAQ-139,Discounts & Coupons,What happens to a coupon after a refund?,Coupon treatment depends on the promotion rules for the original order.,what|happens|coupon|after|refund
+FAQ-140,Discounts & Coupons,Where can I enter a promo code?,Go to Checkout and enter the code in the Coupon or Promo Code field.,where|can|enter|promo|code
+FAQ-141,Account Management,How do I create a ShopEase account?,Open the ShopEase account page → Sign Up/Create Account → enter the required information → complete registration.,how|create|shopease|account
+FAQ-142,Account Management,Where can I find the sign-up option?,Open the account page and select Sign Up or Create Account.,where|can|find|the|sign-up|option
+FAQ-143,Account Management,How do I log in?,Open the account page → Log In → enter your registered credentials.,how|log
+FAQ-144,Account Management,Where can I find my account settings?,Go to My Account → Settings.,where|can|find|account|settings
+FAQ-145,Account Management,How do I change my name?,Go to My Account → Settings → Profile and edit the available name field.,how|change|name
+FAQ-146,Account Management,How do I change my email address?,Go to My Account → Settings → Profile and use the available email-edit option.,how|change|email|address
+FAQ-147,Account Management,How do I change my phone number?,Go to My Account → Settings → Profile and update the phone-number field.,how|change|phone|number
+FAQ-148,Account Management,How do I change my password?,Go to My Account → Settings → Security → Change Password.,how|change|password
+FAQ-149,Account Management,Where can I find password settings?,Go to My Account → Settings → Security.,where|can|find|password|settings
+FAQ-150,Account Management,What if I forgot my password?,"On the Log In page, select Forgot Password and follow the reset instructions.",what|forgot|password
+FAQ-151,Account Management,Where can I find Forgot Password?,Open the Log In page and select Forgot Password.,where|can|find|forgot|password
+FAQ-152,Account Management,How do I log out?,Open the account menu and select Log Out.,how|log|out
+FAQ-153,Account Management,Where can I find my profile?,Go to My Account → Profile.,where|can|find|profile
+FAQ-154,Account Management,How do I delete my account?,Go to My Account → Settings and use the available account-deletion option if provided.,how|delete|account
+FAQ-155,Account Management,Where can I find saved addresses?,Go to My Account → Addresses.,where|can|find|saved|addresses
+FAQ-156,Account Management,How do I add a new address?,Go to My Account → Addresses → Add Address → enter details → Save.,how|add|new|address
+FAQ-157,Account Management,How do I edit a saved address?,Go to My Account → Addresses → select the address → Edit.,how|edit|saved|address
+FAQ-158,Account Management,How do I remove a saved address?,Go to My Account → Addresses → select the address → Delete/Remove.,how|remove|saved|address
+FAQ-159,Account Management,Can I manage my account in the mobile app?,Yes. Open the app's My Account section to access available account features.,can|manage|account|the|mobile|app
+FAQ-160,Account Management,Where can I find my account information?,Open My Account → Profile to view available account information.,where|can|find|account|information
+FAQ-161,Product Information,How do I find a product?,Enter the product name or keyword in the ShopEase search bar and select a result.,how|find|product
+FAQ-162,Product Information,Where can I find product details?,"Open the product page to view its description, specifications, variants, and other information.",where|can|find|product|details
+FAQ-163,Product Information,Where can I see the product price?,The current price is displayed on the product page.,where|can|see|the|product|price
+FAQ-164,Product Information,How do I check product specifications?,Open the product page and review the Specifications or Product Details section.,how|check|product|specifications
+FAQ-165,Product Information,Where can I find product images?,Open the product page to view its available images.,where|can|find|product|images
+FAQ-166,Product Information,How do I read a product description?,Open the product page and scroll to Product Description.,how|read|product|description
+FAQ-167,Product Information,Where can I find product reviews?,Open the product page and scroll to Reviews.,where|can|find|product|reviews
+FAQ-168,Product Information,How do I check product ratings?,Open the product page to view its rating and detailed reviews.,how|check|product|ratings
+FAQ-169,Product Information,How do I compare products?,"Open the products you are considering and compare their displayed price, specifications, ratings, and variants.",how|compare|products
+FAQ-170,Product Information,Where can I find product dimensions?,Check the Specifications or Product Details section on the product page.,where|can|find|product|dimensions
+FAQ-171,Product Information,How do I know what is included with a product?,Review the product description and What's Included or package-content information.,how|know|what|included|with|product
+FAQ-172,Product Information,Where can I find care instructions?,Check the product description or specifications for available care instructions.,where|can|find|care|instructions
+FAQ-173,Product Information,How do I check product material?,Open the product page and review the material information in the description or specifications.,how|check|product|material
+FAQ-174,Product Information,Can product information change?,"Yes. Product details, pricing, availability, and other information can change.",can|product|information|change
+FAQ-175,Product Information,Where can I find the brand name?,The brand name is shown on the product page when available.,where|can|find|the|brand|name
+FAQ-176,Product Information,How do I check product variants?,"Open the product page and use the size, color, model, or other variant selector.",how|check|product|variants
+FAQ-177,Product Information,Where can I find the model number?,Check the Specifications or Product Details section when a model number is provided.,where|can|find|the|model|number
+FAQ-178,Product Information,How do I search by keyword?,Enter a relevant keyword in the ShopEase search bar and review the matching results.,how|search|keyword
+FAQ-179,Product Information,Why is product information missing?,Some listings may have incomplete information. Contact support if clarification is needed.,why|product|information|missing
+FAQ-180,Product Information,Where can I find warranty information?,Check the product page for available warranty details and conditions.,where|can|find|warranty|information
+FAQ-181,Size & Fit,How do I find the size chart?,Open the product page and select Size Chart when available.,how|find|the|size|chart
+FAQ-182,Size & Fit,Where can I find size information?,Open the product page and review the Size or Variant section.,where|can|find|size|information
+FAQ-183,Size & Fit,How do I choose the right size?,Compare your measurements with the product-specific size chart and select the closest match.,how|choose|the|right|size
+FAQ-184,Size & Fit,What if I am between two sizes?,Compare your measurements with the size chart and review the product's fit description.,what|between|two|sizes
+FAQ-185,Size & Fit,Where can I see fit details?,Open the product page and review its Fit or Size information.,where|can|see|fit|details
+FAQ-186,Size & Fit,How do I measure myself for a size?,Follow the measurement instructions provided with the product's size chart.,how|measure|myself|for|size
+FAQ-187,Size & Fit,Are sizes the same for every product?,"No. Sizing can vary by product, brand, or style, so use the specific size chart.",are|sizes|the|same|for|every|product
+FAQ-188,Size & Fit,Can I change size after ordering?,"If the order has not been processed, check My Account → My Orders for modification options. Otherwise use the return process when eligible.",can|change|size|after|ordering
+FAQ-189,Size & Fit,How do I exchange for another size?,Go to My Account → My Orders → select the eligible item and check the exchange option.,how|exchange|for|another|size
+FAQ-190,Size & Fit,Where can I find available sizes?,Open the product page and review the Size or Variant selector.,where|can|find|available|sizes
+FAQ-191,Size & Fit,Why is my size unavailable?,The selected size may be out of stock. Check the available variants on the product page.,why|size|unavailable
+FAQ-192,Size & Fit,Can I get a restock alert for my size?,"If a restock notification option is available, select it on the product page.",can|get|restock|alert|for|size
+FAQ-193,Size & Fit,How do I check shoe size information?,Open the shoe product page and review its size chart and fit information.,how|check|shoe|size|information
+FAQ-194,Size & Fit,How do I check clothing measurements?,Open the clothing product page and use its size chart or measurement information.,how|check|clothing|measurements
+FAQ-195,Size & Fit,What does regular fit mean?,Regular fit generally describes a standard cut. Check the product-specific fit description for details.,what|does|regular|fit|mean
+FAQ-196,Size & Fit,What does slim fit mean?,Slim fit generally describes a closer cut. Use the product's fit description and size chart.,what|does|slim|fit|mean
+FAQ-197,Size & Fit,Where can I find model measurements?,Check the product description or fit information when model measurements are provided.,where|can|find|model|measurements
+FAQ-198,Size & Fit,Can I return an item because of size?,A size-related return may be eligible under the return policy and product-specific conditions.,can|return|item|because|size
+FAQ-199,Size & Fit,What if the size chart is unclear?,Check the product-specific fit information or contact ShopEase support.,what|the|size|chart|unclear
+FAQ-200,Size & Fit,Does changing size affect price?,A different variant may have a different price. Review the displayed price after selecting the new size.,does|changing|size|affect|price
+FAQ-201,Product Availability,How do I check if a product is in stock?,Open the product page and review the stock or variant availability.,how|check|product|stock
+FAQ-202,Product Availability,Where can I find stock availability?,Open the product page and select the desired variant to see its availability.,where|can|find|stock|availability
+FAQ-203,Product Availability,Why is a product out of stock?,The product or selected variant may currently have no available inventory.,why|product|out|stock
+FAQ-204,Product Availability,Can I buy an out-of-stock product?,An out-of-stock item normally cannot be purchased until it becomes available.,can|buy|out-of-stock|product
+FAQ-205,Product Availability,How do I find products that are in stock?,Use ShopEase search and available filters to narrow the results to products you want.,how|find|products|that|are|stock
+FAQ-206,Product Availability,Can I get a restock notification?,"If the product page offers a restock notification option, select it and follow the instructions.",can|get|restock|notification
+FAQ-207,Product Availability,Where can I find the restock option?,Open the out-of-stock product page and look for the available restock notification option.,where|can|find|the|restock|option
+FAQ-208,Product Availability,Why did an item become unavailable in my cart?,Inventory can change before checkout. Open the product page to check the current availability.,why|did|item|become|unavailable|cart
+FAQ-209,Product Availability,Can all product variants be in stock?,"No. Different sizes, colors, or models can have different stock levels.",can|all|product|variants|stock
+FAQ-210,Product Availability,How do I check color availability?,Open the product page and select the Color option to see available variants.,how|check|color|availability
+FAQ-211,Product Availability,How do I check size availability?,Open the product page and select Size to see available sizes.,how|check|size|availability
+FAQ-212,Product Availability,Can availability vary by location?,Yes. Product availability and delivery eligibility can depend on the destination.,can|availability|vary|location
+FAQ-213,Product Availability,Why is an in-stock item unavailable for delivery?,The item may be in stock but not eligible for delivery to the selected destination.,why|in-stock|item|unavailable|for|delivery
+FAQ-214,Product Availability,Can I order a low-stock product?,"If the product is shown as available, you can place an order while inventory remains available.",can|order|low-stock|product
+FAQ-215,Product Availability,Where can I find newly available products?,Use ShopEase search and browse current product listings and categories.,where|can|find|newly|available|products
+FAQ-216,Product Availability,How do I know if a product is discontinued?,Check the product listing or contact support if its availability status is unclear.,how|know|product|discontinued
+FAQ-217,Product Availability,Can an item sell out during checkout?,Yes. Inventory can change before an order is completed.,can|item|sell|out|during|checkout
+FAQ-218,Product Availability,What if an ordered item becomes unavailable?,Check My Account → My Orders for the latest order status and contact support if needed.,what|ordered|item|becomes|unavailable
+FAQ-219,Product Availability,How often does stock update?,"Stock can change as inventory is updated, so the product page provides the latest displayed availability.",how|often|does|stock|update
+FAQ-220,Product Availability,Where can I find alternative products?,Search by the product name or category and review similar available listings.,where|can|find|alternative|products
+FAQ-221,Reviews & Ratings,How do I write a product review?,Go to My Account → My Orders → select the eligible purchased product → Review.,how|write|product|review
+FAQ-222,Reviews & Ratings,Where can I find the review option?,"Go to My Account → My Orders, select the purchased item, and look for Review.",where|can|find|the|review|option
+FAQ-223,Reviews & Ratings,How do I rate a product?,Open an eligible purchased item from My Account → My Orders and use the rating option.,how|rate|product
+FAQ-224,Reviews & Ratings,Where can I read product reviews?,Open the product page and scroll to Reviews.,where|can|read|product|reviews
+FAQ-225,Reviews & Ratings,Where can I see product ratings?,Open the product page to view its overall rating and detailed reviews.,where|can|see|product|ratings
+FAQ-226,Reviews & Ratings,Can I edit my review?,"If editing is available, open your submitted review through the applicable review section and choose Edit.",can|edit|review
+FAQ-227,Reviews & Ratings,Can I delete my review?,"If deletion is available, use the review-management option associated with your account.",can|delete|review
+FAQ-228,Reviews & Ratings,Why is my review not visible?,Reviews may require processing before appearing. Check the product page again later.,why|review|not|visible
+FAQ-229,Reviews & Ratings,Can I review a product I did not buy?,Review eligibility depends on the applicable ShopEase review rules.,can|review|product|did|not|buy
+FAQ-230,Reviews & Ratings,How do I report an inappropriate review?,Use the report option on the review or contact ShopEase support with the review details.,how|report|inappropriate|review
+FAQ-231,Reviews & Ratings,What does a product rating mean?,The rating summarizes customer feedback displayed for the product.,what|does|product|rating|mean
+FAQ-232,Reviews & Ratings,Can I review an item after returning it?,Review eligibility depends on the applicable review rules and purchase status.,can|review|item|after|returning
+FAQ-233,Reviews & Ratings,Where can I find my submitted reviews?,Open the account's review section when available to view reviews associated with your purchases.,where|can|find|submitted|reviews
+FAQ-234,Reviews & Ratings,How do I sort product reviews?,Open Reviews on the product page and use the available sorting or filtering controls.,how|sort|product|reviews
+FAQ-235,Reviews & Ratings,Can I include photos in a review?,Photo-review availability depends on the review form and product rules.,can|include|photos|review
+FAQ-236,Reviews & Ratings,Why did my review disappear?,A review may be removed or hidden if it does not meet applicable review requirements.,why|did|review|disappear
+FAQ-237,Reviews & Ratings,How do I report a fake review?,Use the report option on the review or contact ShopEase support with the relevant details.,how|report|fake|review
+FAQ-238,Reviews & Ratings,Can sellers change customer ratings?,Ratings are handled through the ShopEase review system rather than being directly edited by sellers.,can|sellers|change|customer|ratings
+FAQ-239,Reviews & Ratings,How are product ratings displayed?,Product ratings are displayed on the product page based on available customer feedback.,how|are|product|ratings|displayed
+FAQ-240,Reviews & Ratings,Where can I find review guidelines?,Check the review form or Reviews section for the applicable guidelines.,where|can|find|review|guidelines
+FAQ-241,Technical Issues,Why is ShopEase not loading?,"Check your internet connection and refresh the page. If the problem continues, try again later.",why|shopease|not|loading
+FAQ-242,Technical Issues,What should I do if a page shows an error?,"Refresh the page, check your connection, and retry. Contact support if the error continues.",what|should|page|shows|error
+FAQ-243,Technical Issues,Why can't I add an item to my cart?,"Check product and variant availability, then try adding the item again.",why|can't|add|item|cart
+FAQ-244,Technical Issues,Why can't I proceed to checkout?,"Check for unavailable items, missing required information, or delivery/payment issues.",why|can't|proceed|checkout
+FAQ-245,Technical Issues,Why is the checkout page not working?,"Refresh the page, verify your connection, and retry checkout.",why|the|checkout|page|not|working
+FAQ-246,Technical Issues,Why is my payment page stuck?,Check the payment status before retrying to avoid duplicate transactions.,why|payment|page|stuck
+FAQ-247,Technical Issues,Why did my session expire?,Sign in again and repeat the action. Contact support if the problem continues.,why|did|session|expire
+FAQ-248,Technical Issues,Why am I being logged out?,Your session may have expired. Sign in again and retry the action.,why|being|logged|out
+FAQ-249,Technical Issues,Why is my cart empty?,Make sure you are signed into the correct account and refresh the cart.,why|cart|empty
+FAQ-250,Technical Issues,Why did my cart item disappear?,The item may have become unavailable or the previous session may not have been saved.,why|did|cart|item|disappear
+FAQ-251,Technical Issues,How do I refresh ShopEase?,Use your browser's refresh/reload option or reload the ShopEase page.,how|refresh|shopease
+FAQ-252,Technical Issues,What if search is not working?,Refresh the page and try another search term. Contact support if search still fails.,what|search|not|working
+FAQ-253,Technical Issues,Why are product images not loading?,Check your connection and refresh the product page. Try again later if needed.,why|are|product|images|not|loading
+FAQ-254,Technical Issues,Why is a button not responding?,"Refresh the page and retry. If it still does not respond, contact support.",why|button|not|responding
+FAQ-255,Technical Issues,What should I do if the app freezes?,"Close and reopen the app, check your connection, and retry the action.",what|should|the|app|freezes
+FAQ-256,Technical Issues,Why is ShopEase slow?,Performance can depend on your connection and service conditions. Refresh and retry.,why|shopease|slow
+FAQ-257,Technical Issues,How do I report a technical problem?,"Contact Customer Support and provide the affected page, action, and error message.",how|report|technical|problem
+FAQ-258,Technical Issues,Where can I find help for an error?,Open Help or Customer Support and submit the issue with the displayed error message.,where|can|find|help|for|error
+FAQ-259,Technical Issues,What information should I provide for a technical issue?,"Provide the affected feature, error message, device/browser information, and order number when relevant.",what|information|should|provide|for|technical|issue
+FAQ-260,Technical Issues,Can I retry an action after an error?,"Yes, first check whether the action completed, then retry if it did not.",can|retry|action|after|error
+FAQ-261,Mobile App & Website,Where can I find the ShopEase mobile app?,Open your device's official app store and search for the ShopEase app.,where|can|find|the|shopease|mobile|app
+FAQ-262,Mobile App & Website,How do I open My Account?,Open the account menu and select My Account.,how|open|account
+FAQ-263,Mobile App & Website,Where can I find My Orders?,Open My Account → My Orders.,where|can|find|orders
+FAQ-264,Mobile App & Website,Where can I find the shopping cart?,Select the Cart icon or Cart option in the main navigation.,where|can|find|the|shopping|cart
+FAQ-265,Mobile App & Website,Where can I find the search bar?,Use the search field in the main ShopEase navigation.,where|can|find|the|search|bar
+FAQ-266,Mobile App & Website,How do I browse categories?,Open Categories or Shop from the main navigation and select a category.,how|browse|categories
+FAQ-267,Mobile App & Website,Where can I find notifications?,Open the Notifications or Alerts section when available.,where|can|find|notifications
+FAQ-268,Mobile App & Website,How do I update the app?,Open your device's app store and check for an available ShopEase update.,how|update|the|app
+FAQ-269,Mobile App & Website,Why is the app not opening?,"Check your internet connection, restart the app, and install an available update.",why|the|app|not|opening
+FAQ-270,Mobile App & Website,Where can I find app settings?,Open the app menu or My Account and select Settings.,where|can|find|app|settings
+FAQ-271,Mobile App & Website,How do I switch between app sections?,"Use the navigation bar or menu to open Home, Categories, Cart, My Account, and other sections.",how|switch|between|app|sections
+FAQ-272,Mobile App & Website,Where can I find Customer Support in the app?,Open the Help or account menu and select Customer Support.,where|can|find|customer|support|the|app
+FAQ-273,Mobile App & Website,Can I use ShopEase in a browser?,Yes. Access ShopEase through its supported website interface.,can|use|shopease|browser
+FAQ-274,Mobile App & Website,How do I return to the home page?,Select Home or the ShopEase logo from the main navigation.,how|return|the|home|page
+FAQ-275,Mobile App & Website,Where can I find saved addresses in the app?,Open My Account → Addresses.,where|can|find|saved|addresses|the|app
+FAQ-276,Mobile App & Website,Where can I find payment settings in the app?,Open My Account or Settings and review the available payment options.,where|can|find|payment|settings|the|app
+FAQ-277,Mobile App & Website,How do I clear a search?,Use the clear option in the search field or replace the existing search text.,how|clear|search
+FAQ-278,Mobile App & Website,Where can I find the Help section?,Open Help or Customer Support from the main menu or account menu.,where|can|find|the|help|section
+FAQ-279,Mobile App & Website,Can website and app navigation differ?,Yes. Some features and navigation elements may differ between the website and mobile app.,can|website|and|app|navigation|differ
+FAQ-280,Mobile App & Website,What if the app shows outdated information?,"Refresh the relevant page, reopen the app, and check again. Contact support if it remains incorrect.",what|the|app|shows|outdated|information
+FAQ-281,Gift Cards & Gift Orders,How do I buy a gift card?,Open Gift Cards → choose a gift card → enter the required details → complete Checkout.,how|buy|gift|card
+FAQ-282,Gift Cards & Gift Orders,Where can I find gift cards?,Open the Gift Cards section from the main navigation or search for Gift Cards.,where|can|find|gift|cards
+FAQ-283,Gift Cards & Gift Orders,How do I redeem a gift card?,"At Checkout, enter the gift card code in the Gift Card/Redeem Code section and apply it.",how|redeem|gift|card
+FAQ-284,Gift Cards & Gift Orders,Where can I enter a gift card code?,Go to Checkout and open the Gift Card or Redeem Code section.,where|can|enter|gift|card|code
+FAQ-285,Gift Cards & Gift Orders,How do I check a gift card balance?,Open Gift Cards and use the available balance-check option.,how|check|gift|card|balance
+FAQ-286,Gift Cards & Gift Orders,Where can I find my gift card?,Go to My Account → My Orders and open the order containing the gift card.,where|can|find|gift|card
+FAQ-287,Gift Cards & Gift Orders,Can I use a gift card with another payment method?,"If combined payment is supported, apply the gift card and use another available method for the remaining amount.",can|use|gift|card|with|another|payment|method
+FAQ-288,Gift Cards & Gift Orders,Can I send a gift order to another address?,Enter the recipient's delivery address during Checkout when a separate gift address is supported.,can|send|gift|order|another|address
+FAQ-289,Gift Cards & Gift Orders,Where can I add a gift message?,"During Checkout, open the available Gift Message or gift-options section.",where|can|add|gift|message
+FAQ-290,Gift Cards & Gift Orders,How do I mark an order as a gift?,Use the gift option during Checkout when it is available for the order.,how|mark|order|gift
+FAQ-291,Gift Cards & Gift Orders,Can I cancel a gift order?,Go to My Account → My Orders → select the gift order and check whether cancellation is still available.,can|cancel|gift|order
+FAQ-292,Gift Cards & Gift Orders,Can a gift order be returned?,Eligible gift items generally follow the ShopEase return policy and product-specific conditions.,can|gift|order|returned
+FAQ-293,Gift Cards & Gift Orders,How do I return a gift?,Go to My Account → My Orders → select the eligible gift order → Return Item.,how|return|gift
+FAQ-294,Gift Cards & Gift Orders,Where can I find gift order details?,Go to My Account → My Orders and select the gift order.,where|can|find|gift|order|details
+FAQ-295,Gift Cards & Gift Orders,Can gift cards expire?,Gift card validity depends on the terms associated with the specific gift card.,can|gift|cards|expire
+FAQ-296,Gift Cards & Gift Orders,Can I get a refund for a gift card?,Gift card refund eligibility depends on the applicable gift-card terms.,can|get|refund|for|gift|card
+FAQ-297,Gift Cards & Gift Orders,Can I use a gift card on every product?,Gift card usage is subject to the applicable gift-card and order conditions.,can|use|gift|card|every|product
+FAQ-298,Gift Cards & Gift Orders,What if my gift card code does not work?,"Verify the code and its validity, retry, and contact support if it remains unusable.",what|gift|card|code|does|not|work
+FAQ-299,Gift Cards & Gift Orders,How do I change a gift recipient address?,"If the order has not been processed, go to My Account → My Orders and check address-change options.",how|change|gift|recipient|address
+FAQ-300,Gift Cards & Gift Orders,Where can I find gift-card terms?,Open Gift Cards or the specific gift-card details to review its terms.,where|can|find|gift-card|terms
+FAQ-301,Membership & Loyalty Program,How do I join the loyalty program?,Go to My Account → Membership/Loyalty and follow the enrollment steps.,how|join|the|loyalty|program
+FAQ-302,Membership & Loyalty Program,Where can I find the loyalty program?,Open My Account → Membership or Loyalty.,where|can|find|the|loyalty|program
+FAQ-303,Membership & Loyalty Program,How do I check my loyalty points?,Go to My Account → Membership/Loyalty to view the points balance.,how|check|loyalty|points
+FAQ-304,Membership & Loyalty Program,Where can I find my loyalty points?,Open My Account → Membership/Loyalty and review your points.,where|can|find|loyalty|points
+FAQ-305,Membership & Loyalty Program,How do I earn loyalty points?,Eligible purchases or activities can earn points according to the loyalty program terms.,how|earn|loyalty|points
+FAQ-306,Membership & Loyalty Program,How do I redeem loyalty points?,"At Checkout, select the available points or rewards option and apply eligible points.",how|redeem|loyalty|points
+FAQ-307,Membership & Loyalty Program,Where can I redeem points?,Go to Checkout and review the Membership or Rewards section.,where|can|redeem|points
+FAQ-308,Membership & Loyalty Program,Can loyalty points expire?,Point expiration depends on the loyalty program terms shown in your membership details.,can|loyalty|points|expire
+FAQ-309,Membership & Loyalty Program,Why did my loyalty points not appear?,Points may require processing after an eligible activity. Check your balance later.,why|did|loyalty|points|not|appear
+FAQ-310,Membership & Loyalty Program,Can returned orders affect points?,Points associated with returned or refunded orders may be adjusted according to program rules.,can|returned|orders|affect|points
+FAQ-311,Membership & Loyalty Program,How do I check membership benefits?,Go to My Account → Membership/Loyalty to view the benefits available to your account.,how|check|membership|benefits
+FAQ-312,Membership & Loyalty Program,Where can I find membership benefits?,Open the Membership or Loyalty section in My Account.,where|can|find|membership|benefits
+FAQ-313,Membership & Loyalty Program,How do I upgrade membership?,Go to My Account → Membership and review available upgrade options.,how|upgrade|membership
+FAQ-314,Membership & Loyalty Program,How do I cancel membership?,Go to My Account → Membership and use the available cancellation option if provided.,how|cancel|membership
+FAQ-315,Membership & Loyalty Program,Where can I find membership settings?,Open My Account → Membership or Loyalty.,where|can|find|membership|settings
+FAQ-316,Membership & Loyalty Program,Can membership benefits vary by plan?,Yes. Benefits can depend on the membership level or plan.,can|membership|benefits|vary|plan
+FAQ-317,Membership & Loyalty Program,How do I check membership status?,Go to My Account → Membership to view your current status.,how|check|membership|status
+FAQ-318,Membership & Loyalty Program,Can I use points with coupons?,Combining points and coupons depends on the applicable loyalty and promotion rules.,can|use|points|with|coupons
+FAQ-319,Membership & Loyalty Program,Where can I find loyalty terms?,Open My Account → Membership/Loyalty and review the program terms.,where|can|find|loyalty|terms
+FAQ-320,Membership & Loyalty Program,What happens to points after an account change?,Point treatment depends on the account action and loyalty program rules.,what|happens|points|after|account|change
+FAQ-321,International Orders,Can I place an international order?,International ordering is available for supported destinations and products. Check delivery options during Checkout.,can|place|international|order
+FAQ-322,International Orders,Where can I find international shipping options?,Enter the destination during Checkout and review available international delivery methods.,where|can|find|international|shipping|options
+FAQ-323,International Orders,How do I place an international order?,Add products → Cart → Checkout → enter the supported international address → choose shipping/payment → place the order.,how|place|international|order
+FAQ-324,International Orders,Where can I see international delivery availability?,Enter the destination address during Checkout to see whether delivery is available.,where|can|see|international|delivery|availability
+FAQ-325,International Orders,Are all products available internationally?,No. Product and destination eligibility can vary. Check delivery availability for the specific item.,are|all|products|available|internationally
+FAQ-326,International Orders,Can international orders be returned?,"Returns depend on the product, destination, and applicable return conditions.",can|international|orders|returned
+FAQ-327,International Orders,Where can I find international return information?,Go to My Account → My Orders → select the order → Return Details.,where|can|find|international|return|information
+FAQ-328,International Orders,How are international shipping costs calculated?,"International shipping cost depends on destination, product, carrier, and shipping service and is shown at Checkout.",how|are|international|shipping|costs|calculated
+FAQ-329,International Orders,Where can I find international shipping cost?,Enter the international address during Checkout and review the shipping charge.,where|can|find|international|shipping|cost
+FAQ-330,International Orders,Can I track an international order?,"If tracking is available, go to My Account → My Orders → select the shipped order → Track Order.",can|track|international|order
+FAQ-331,International Orders,Where can I find international tracking?,Open My Account → My Orders and select the international order to view available tracking.,where|can|find|international|tracking
+FAQ-332,International Orders,Can I change an international delivery address?,Address changes may be available before processing or shipping. Check My Account → My Orders.,can|change|international|delivery|address
+FAQ-333,International Orders,Are customs charges included?,Customs or destination charges depend on the destination and order conditions. Review information shown at Checkout.,are|customs|charges|included
+FAQ-334,International Orders,What if an international package is delayed?,Go to My Account → My Orders → Track Order for the latest carrier update.,what|international|package|delayed
+FAQ-335,International Orders,Can international orders be cancelled?,Cancellation may be available before processing or shipping. Check My Account → My Orders.,can|international|orders|cancelled
+FAQ-336,International Orders,What payment methods can be used internationally?,Available payment methods for the destination are shown during Checkout.,what|payment|methods|can|used|internationally
+FAQ-337,International Orders,Where can I find international payment options?,Enter the destination and go to Checkout → Payment Method.,where|can|find|international|payment|options
+FAQ-338,International Orders,Can I order from another country using my account?,"Yes, when the destination and product are supported by ShopEase.",can|order|from|another|country|using|account
+FAQ-339,International Orders,What if a product cannot be shipped internationally?,"Choose a supported product or destination, or contact support for clarification.",what|product|cannot|shipped|internationally
+FAQ-340,International Orders,Where can I find international order status?,Go to My Account → My Orders → select the international order.,where|can|find|international|order|status
+FAQ-341,Invoices & Billing,How do I get an invoice?,Go to My Account → My Orders → select the order → Invoice.,how|get|invoice
+FAQ-342,Invoices & Billing,Where can I find my invoice?,Open My Account → My Orders → select the order → Invoice.,where|can|find|invoice
+FAQ-343,Invoices & Billing,How do I download an invoice?,"Go to My Account → My Orders → select the order → Invoice → Download, if available.",how|download|invoice
+FAQ-344,Invoices & Billing,Can I view an invoice online?,"Yes, when available. Open My Account → My Orders → select the order → Invoice.",can|view|invoice|online
+FAQ-345,Invoices & Billing,Where can I find billing information?,Go to My Account → My Orders → select the order to review billing details.,where|can|find|billing|information
+FAQ-346,Invoices & Billing,How do I update billing information?,Use the available account or order billing settings before completing the applicable transaction.,how|update|billing|information
+FAQ-347,Invoices & Billing,Can I change billing information after ordering?,Changes may not be available after completion. Check the order or contact support.,can|change|billing|information|after|ordering
+FAQ-348,Invoices & Billing,Why is my invoice missing?,Check My Account → My Orders → select the order. Contact support if an invoice is unavailable.,why|invoice|missing
+FAQ-349,Invoices & Billing,What information is shown on an invoice?,"An invoice may show order items, pricing, discounts, taxes, billing, and payment information.",what|information|shown|invoice
+FAQ-350,Invoices & Billing,Can I request an invoice for an old order?,Go to My Account → My Orders → select the previous order and check whether an invoice is available.,can|request|invoice|for|old|order
+FAQ-351,Invoices & Billing,Where can I find tax information on an invoice?,Open the invoice and review its tax or billing section.,where|can|find|tax|information|invoice
+FAQ-352,Invoices & Billing,How do I print an invoice?,Open My Account → My Orders → select the order → Invoice and use your device's print option.,how|print|invoice
+FAQ-353,Invoices & Billing,Can I get an invoice for a cancelled order?,Invoice availability for cancelled orders depends on their billing status.,can|get|invoice|for|cancelled|order
+FAQ-354,Invoices & Billing,Where can I find order billing details?,Go to My Account → My Orders → select the order and review Billing/Invoice Details.,where|can|find|order|billing|details
+FAQ-355,Invoices & Billing,How do I check the amount billed?,Open My Account → My Orders → select the order and review its payment or invoice details.,how|check|the|amount|billed
+FAQ-356,Invoices & Billing,Why does my invoice amount differ from the product price?,"The final invoice may include discounts, shipping, taxes, or other applicable charges.",why|does|invoice|amount|differ|from|the|product|price
+FAQ-357,Invoices & Billing,Can I request a corrected invoice?,Contact ShopEase support with the order and invoice details if a correction is needed.,can|request|corrected|invoice
+FAQ-358,Invoices & Billing,Where can I find invoice history?,Go to My Account → My Orders and open previous orders to view available invoices.,where|can|find|invoice|history
+FAQ-359,Invoices & Billing,Can I use an invoice for records?,You can use an available ShopEase invoice for your records.,can|use|invoice|for|records
+FAQ-360,Invoices & Billing,What if billing information is incorrect?,Review the order and invoice details and contact support if a correction is required.,what|billing|information|incorrect
+FAQ-361,Customer Support,How do I contact ShopEase support?,Open Help or Customer Support and choose the available support option for your issue.,how|contact|shopease|support
+FAQ-362,Customer Support,Where can I find Customer Support?,Go to Help or Customer Support from the main menu or account menu.,where|can|find|customer|support
+FAQ-363,Customer Support,Where can I find the Help Center?,Open Help or Customer Support from the ShopEase website or app.,where|can|find|the|help|center
+FAQ-364,Customer Support,How do I report an order problem?,Go to My Account → My Orders → select the affected order → use the available support option.,how|report|order|problem
+FAQ-365,Customer Support,How do I report a payment problem?,Open the affected order in My Account → My Orders and contact support with payment details.,how|report|payment|problem
+FAQ-366,Customer Support,How do I report a delivery problem?,Go to My Account → My Orders → select the order and use the available support option.,how|report|delivery|problem
+FAQ-367,Customer Support,How do I report a return problem?,Go to My Account → My Orders → select the returned item → Return Details → contact support.,how|report|return|problem
+FAQ-368,Customer Support,What information should I give support?,"Provide your order number, issue description, relevant message or screenshot, and the action you were trying to complete.",what|information|should|give|support
+FAQ-369,Customer Support,Where can I find my order number for support?,Go to My Account → My Orders → select the order. The order number is in Order Details.,where|can|find|order|number|for|support
+FAQ-370,Customer Support,Can support help with a cancelled order?,Yes. Open the cancelled order in My Account → My Orders and provide its details.,can|support|help|with|cancelled|order
+FAQ-371,Customer Support,Can support help with a missing refund?,Yes. Provide the order number and Refund Details from My Account → My Orders.,can|support|help|with|missing|refund
+FAQ-372,Customer Support,Can support help with a missing package?,Yes. Provide the order number and tracking information from My Account → My Orders.,can|support|help|with|missing|package
+FAQ-373,Customer Support,How do I report a technical issue?,Open Help or Customer Support and provide the error message and affected feature.,how|report|technical|issue
+FAQ-374,Customer Support,Where can I submit a support request?,Open Help or Customer Support and select the available request/contact option.,where|can|submit|support|request
+FAQ-375,Customer Support,How do I check my support request?,Use the support section or the communication method provided when the request was submitted.,how|check|support|request
+FAQ-376,Customer Support,What if I cannot find an answer?,Use Customer Support and describe your question or issue clearly.,what|cannot|find|answer
+FAQ-377,Customer Support,Can support help with product information?,Yes. Provide the product name or product page and explain what information you need.,can|support|help|with|product|information
+FAQ-378,Customer Support,Can support help with account access?,Yes. Contact Customer Support for account-access issues. Do not share your password.,can|support|help|with|account|access
+FAQ-379,Customer Support,Where can I find support contact options?,Open Help or Customer Support to view the available contact methods.,where|can|find|support|contact|options
+FAQ-380,Customer Support,What should I do before contacting support?,"Check the relevant order, payment, delivery, return, or account details and note the order number.",what|should|before|contacting|support
+FAQ-381,Security & Privacy,How do I protect my ShopEase account?,"Use a strong password, keep credentials private, and sign out on shared devices.",how|protect|shopease|account
+FAQ-382,Security & Privacy,Where can I find security settings?,Go to My Account → Settings → Security.,where|can|find|security|settings
+FAQ-383,Security & Privacy,How do I change my password?,Go to My Account → Settings → Security → Change Password.,how|change|password
+FAQ-384,Security & Privacy,What if I suspect unauthorized account access?,Change your password immediately and contact ShopEase support about suspicious activity.,what|suspect|unauthorized|account|access
+FAQ-385,Security & Privacy,How do I report suspicious account activity?,Open Help or Customer Support and describe the suspicious activity.,how|report|suspicious|account|activity
+FAQ-386,Security & Privacy,Should I share my password with support?,No. Never share your password or authentication codes with anyone.,should|share|password|with|support
+FAQ-387,Security & Privacy,How do I sign out of a shared device?,Open the account menu and select Log Out after finishing your session.,how|sign|out|shared|device
+FAQ-388,Security & Privacy,Where can I find privacy settings?,Go to My Account → Settings and review the available Privacy options.,where|can|find|privacy|settings
+FAQ-389,Security & Privacy,How is my personal information used?,Personal information is handled according to the applicable ShopEase privacy information and account settings.,how|personal|information|used
+FAQ-390,Security & Privacy,How do I manage communication preferences?,Go to My Account → Settings and review Communication or Notification Preferences.,how|manage|communication|preferences
+FAQ-391,Security & Privacy,Where can I manage notifications?,Open My Account → Settings → Notifications when available.,where|can|manage|notifications
+FAQ-392,Security & Privacy,How do I stop marketing notifications?,Go to My Account → Settings → Notifications or Communication Preferences and adjust available options.,how|stop|marketing|notifications
+FAQ-393,Security & Privacy,What should I do about a suspicious email?,Do not provide credentials or payment details. Access ShopEase directly and contact support if needed.,what|should|about|suspicious|email
+FAQ-394,Security & Privacy,How do I keep payment information safe?,"Protect your account credentials, use trusted devices, and avoid sharing payment information through unsolicited messages.",how|keep|payment|information|safe
+FAQ-395,Security & Privacy,Can I use ShopEase on a public computer?,"If necessary, do not save credentials and always sign out when finished.",can|use|shopease|public|computer
+FAQ-396,Security & Privacy,How do I remove saved account information?,Go to My Account → Settings and use the available account or privacy controls.,how|remove|saved|account|information
+FAQ-397,Security & Privacy,Where can I find privacy information?,Open the Privacy or Privacy Policy section available through ShopEase.,where|can|find|privacy|information
+FAQ-398,Security & Privacy,What if I receive a suspicious login alert?,"Review your account activity, change your password if needed, and contact support if it was not authorized.",what|receive|suspicious|login|alert
+FAQ-399,Security & Privacy,Can I delete my account?,Go to My Account → Settings and use the available account-deletion option if provided.,can|delete|account
+FAQ-400,Security & Privacy,What if my account information is incorrect?,"Go to My Account → Profile or Settings and update the available information, or contact support.",what|account|information|incorrect
+FAQ-401,Damaged & Defective Products,I received a damaged product. What should I do?,Go to My Account → My Orders → select the affected order → Return Item and choose the damaged-product reason.,received|damaged|product|what|should
+FAQ-402,Damaged & Defective Products,How do I report a damaged product?,Go to My Account → My Orders → select the affected order → Return Item and select the damaged-product reason.,how|report|damaged|product
+FAQ-403,Damaged & Defective Products,Where can I find the damaged product return option?,"Go to My Account → My Orders → select the affected order. If eligible, choose Return Item and select the damaged-product reason.",where|can|find|the|damaged|product|return|option
+FAQ-404,Damaged & Defective Products,Can I return a damaged product?,Eligible damaged products can be returned through My Account → My Orders → select the order → Return Item.,can|return|damaged|product
+FAQ-405,Damaged & Defective Products,How do I return a damaged item?,Go to My Account → My Orders → select the damaged item → Return Item and follow the return instructions.,how|return|damaged|item
+FAQ-406,Damaged & Defective Products,Where can I report a damaged item?,Go to My Account → My Orders → select the affected order → Return Item and choose the appropriate reason.,where|can|report|damaged|item
+FAQ-407,Damaged & Defective Products,Can I get a replacement for a damaged product?,Replacement availability depends on the product and available options. Go to My Account → My Orders → select the item and check the available return or replacement options.,can|get|replacement|for|damaged|product
+FAQ-408,Damaged & Defective Products,How do I replace a damaged product?,Go to My Account → My Orders → select the damaged item and check whether a replacement option is available.,how|replace|damaged|product
+FAQ-409,Damaged & Defective Products,Where can I find the replacement option for a damaged item?,Go to My Account → My Orders → select the affected item and review the available replacement options.,where|can|find|the|replacement|option|for|damaged|item
+FAQ-410,Damaged & Defective Products,Can I get a refund for a damaged product?,"If the damaged product is eligible for a refund, submit the return through My Account → My Orders → select the item → Return Item.",can|get|refund|for|damaged|product
+FAQ-411,Damaged & Defective Products,Where can I find my damaged product return status?,Go to My Account → My Orders → select the damaged item → Return Details.,where|can|find|damaged|product|return|status
+FAQ-412,Damaged & Defective Products,How do I check the status of my damaged product return?,Go to My Account → My Orders → select the affected order → Return Details.,how|check|the|status|damaged|product|return
+FAQ-413,Damaged & Defective Products,What if the product I received is defective?,Go to My Account → My Orders → select the affected item → Return Item and choose the defective-product reason.,what|the|product|received|defective
+FAQ-414,Damaged & Defective Products,How do I report a defective product?,Go to My Account → My Orders → select the affected order → Return Item and select the defective-product reason.,how|report|defective|product
+FAQ-415,Damaged & Defective Products,Where can I find the defective product return option?,Go to My Account → My Orders → select the affected order and choose Return Item if the item is eligible.,where|can|find|the|defective|product|return|option
+FAQ-416,Damaged & Defective Products,What should I do if my item arrived broken?,Go to My Account → My Orders → select the order → Return Item and report the item as damaged.,what|should|item|arrived|broken
+FAQ-417,Damaged & Defective Products,Can I return an item that arrived broken?,Eligible items that arrive broken can be returned through My Account → My Orders → select the item → Return Item.,can|return|item|that|arrived|broken
+FAQ-418,Damaged & Defective Products,What if my product is damaged during delivery?,Go to My Account → My Orders → select the affected order and use Return Item to report the damage.,what|product|damaged|during|delivery
+FAQ-419,Damaged & Defective Products,Where can I find instructions for a damaged product return?,Go to My Account → My Orders → select the damaged item → Return Details for the available return instructions.,where|can|find|instructions|for|damaged|product|return
+FAQ-420,Damaged & Defective Products,What information should I provide about a damaged product?,Provide the order number and describe the damage when submitting the return or contacting Customer Support.,what|information|should|provide|about|damaged|product

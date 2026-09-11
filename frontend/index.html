@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopEase AI Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="chat-container">
+
+        <div class="chat-header">
+            <h1>🛍️ ShopEase AI Assistant</h1>
+            <p>
+               <span class="status-dot"></span>
+               Online • Ready to help
+            </p>
+        </div>
+
+        <div id="chat-box" class="chat-box">
+            <div class="message bot">
+                Hello! 👋 How can I help you today?
+            </div>
+        </div>
+        <div class="suggestions">
+            <button onclick="askSuggestion('How can I cancel my order?')">
+                Cancel my order
+            </button>
+
+            <button onclick="askSuggestion('How can I track my order?')">
+                Track my order
+            </button>
+
+            <button onclick="askSuggestion('How can I get a refund?')">
+                Get a refund
+            </button>
+
+            <button onclick="askSuggestion('I received a damaged product. What should I do?')">
+                Damaged product
+            </button>
+        </div>
+
+        <div class="input-area">
+            <input
+                type="text"
+                id="user-input"
+                placeholder="Ask your question..."
+            >
+
+            <div class="button-group">
+
+    <button onclick="sendMessage()">
+        Send
+    </button>
+
+    <button class="clear-btn" onclick="clearChat()">
+        Clear Chat
+    </button>
+
+</div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
