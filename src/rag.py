@@ -4,6 +4,7 @@ from src.vector_store import create_vector_store
 from src.llm import generate_answer
 
 
+
 # Load FAQ data
 df = load_faqs()
 

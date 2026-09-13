@@ -1,0 +1,22 @@
+expected_id,question,rank,retrieved_ids
+FAQ-004,How can I cancel my order after placing it?,1,FAQ-004;FAQ-005;FAQ-291
+FAQ-024,What does shipping cost?,1,FAQ-024;FAQ-329;FAQ-022
+FAQ-044,When does my tracking number start working?,1,FAQ-044;FAQ-046;FAQ-052
+FAQ-064,How do I get a printable return label?,1,FAQ-064;FAQ-065;FAQ-079
+FAQ-084,I still haven't gotten my refund. Where is it?,1,FAQ-084;FAQ-083;FAQ-090
+FAQ-104,Can I pay using my debit card?,1,FAQ-104;FAQ-105;FAQ-089
+FAQ-124,My discount code isn't applying at checkout. Why?,1,FAQ-124;FAQ-136;FAQ-130
+FAQ-144,Where do I go to change my account settings?,1,FAQ-144;FAQ-382;FAQ-315
+FAQ-164,How do I see the specs of a product?,2,FAQ-162;FAQ-164;FAQ-166
+ what should I do?,I'm stuck between two sizes,not found,FAQ-190;FAQ-182;FAQ-189
+FAQ-204,Is it possible to purchase something that's out of stock?,1,FAQ-204;FAQ-214;FAQ-205
+FAQ-224,Where can I find reviews for a product?,2,FAQ-167;FAQ-224;FAQ-225
+ what's wrong?,Checkout isn't letting me proceed,not found,FAQ-244;FAQ-245;FAQ-246
+FAQ-264,How do I get to my shopping cart on the app?,1,FAQ-264;FAQ-271;FAQ-274
+FAQ-284,Where do I input a gift card code?,1,FAQ-284;FAQ-283;FAQ-281
+FAQ-304,How do I check how many loyalty points I have?,2,FAQ-303;FAQ-304;FAQ-302
+FAQ-324,Do you deliver internationally to my country?,1,FAQ-324;FAQ-321;FAQ-322
+FAQ-344,Can I get my invoice online instead of paper?,1,FAQ-344;FAQ-359;FAQ-341
+FAQ-364,How do I report a problem with my order to support?,2,FAQ-368;FAQ-364;FAQ-380
+ what do I do?,Someone may have accessed my account without permission,not found,FAQ-385;FAQ-398;FAQ-384
+ can I send it back?,My product arrived damaged,not found,FAQ-401;FAQ-420;FAQ-418

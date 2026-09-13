@@ -1,0 +1,27 @@
+question,expected_id,expected_behavior
+How can I cancel my order after placing it?,FAQ-004,answer
+What does shipping cost?,FAQ-024,answer
+When does my tracking number start working?,FAQ-044,answer
+How do I get a printable return label?,FAQ-064,answer
+I still haven't gotten my refund. Where is it?,FAQ-084,answer
+Can I pay using my debit card?,FAQ-104,answer
+My discount code isn't applying at checkout. Why?,FAQ-124,answer
+Where do I go to change my account settings?,FAQ-144,answer
+How do I see the specs of a product?,FAQ-164,answer
+I'm stuck between two sizes, what should I do?,FAQ-184,answer
+Is it possible to purchase something that's out of stock?,FAQ-204,answer
+Where can I find reviews for a product?,FAQ-224,answer
+Checkout isn't letting me proceed, what's wrong?,FAQ-244,answer
+How do I get to my shopping cart on the app?,FAQ-264,answer
+Where do I input a gift card code?,FAQ-284,answer
+How do I check how many loyalty points I have?,FAQ-304,answer
+Do you deliver internationally to my country?,FAQ-324,answer
+Can I get my invoice online instead of paper?,FAQ-344,answer
+How do I report a problem with my order to support?,FAQ-364,answer
+Someone may have accessed my account without permission, what do I do?,FAQ-384,answer
+My product arrived damaged, can I send it back?,FAQ-404,answer
+What's the weather like today?,,refuse
+Can you help me write a Python script?,,refuse
+Who won the cricket world cup?,,refuse
+What is the capital of France?,,refuse
+Can you recommend a good movie to watch tonight?,,refuse
